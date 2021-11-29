@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_ep_10_val_accuracy_0.4958.ckpt"
+all_model_checkpoint_paths: "model_ep_10_val_accuracy_0.4958.ckpt"
